@@ -25,6 +25,11 @@ I am a Software Engineering student, currently in the 7th semester of my degree.
 📫 Feel free to reach out to me at <a href="mailto:gonzalo.qu3dena@gmail.com">gonzalo.qu3dena@gmail.com</a>. I’m always open to new opportunities, collaborations, and discussions about software development and technology. Let’s connect!
 </p>
 
+<p align="justify">
+<img src="https://seeklogo.com/images/U/universidad-peruana-de-ciencias-aplicadas-upc-logo-B98C3A365C-seeklogo.com.png" alt="UPC Logo" width="20px" align="center"/> Check out my GitHub profile for university projects: 
+<a href="https://github.com/GonzaQuedenaUPC" target="_blank">GonzaQuedenaUPC</a>
+</p>
+
 ## 🛠️ My Skills
 
 <h4> Languages </h4>
