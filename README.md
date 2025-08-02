@@ -14,9 +14,6 @@
 I am a Software Engineering student, currently in the 7th semester of my degree. I’m passionate about learning, expanding my knowledge, and building innovative projects. I enjoy tackling challenges and seek opportunities to learn new technologies and improve my skills.
 </p>
 
-🌱 I’m currently learning...
-- <img src="https://juststickers.in/wp-content/uploads/2019/01/flutter.png" alt="flutter-logo" width="15px"/> <b>Flutter</b> <img src="https://juststickers.in/wp-content/uploads/2019/01/flutter.png" alt="flutter-logo" width="15px"/> to build mobile applications.  I’m particularly interested in mastering Flutter’s capabilities to create high-quality, responsive, and efficient mobile apps, while exploring advanced features like state management and integration with back-end services.
-
 <p align="justify">
 👯 I’m looking forward to collaborating on open-source projects, where I can contribute my skills, learn from others, and help create solutions that benefit the wider community. I believe open-source is a great way to work with talented developers around the world, exchange ideas, and improve both my technical and collaborative skills.
 </p>
@@ -33,15 +30,17 @@ I am a Software Engineering student, currently in the 7th semester of my degree.
 ## 🛠️ My Skills
 
 <h4> Languages </h4>
-<span> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<span>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src= "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=sql&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 </span>
 
 <h4> Frameworks </h4>
@@ -52,7 +51,7 @@ I am a Software Engineering student, currently in the 7th semester of my degree.
   <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/dotnet-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/in_progress_._._.-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 </span>
 
 <h4> Other Tools and Technologies </h4>
@@ -60,6 +59,7 @@ I am a Software Engineering student, currently in the 7th semester of my degree.
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </span>
 
 <!--
