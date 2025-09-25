@@ -11,7 +11,7 @@
 ## 👨🏻‍💻 &nbsp;About Me
 
 <p align="justify">
-I am a Software Engineering student, currently in the 7th semester of my degree. I’m passionate about learning, expanding my knowledge, and building innovative projects. I enjoy tackling challenges and seek opportunities to learn new technologies and improve my skills.
+I am a Software Engineering student, currently in the 9th semester of my degree. I’m passionate about learning, expanding my knowledge, and building innovative projects. I enjoy tackling challenges and seek opportunities to learn new technologies and improve my skills.
 </p>
 
 <p align="justify">
